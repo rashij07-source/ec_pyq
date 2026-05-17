@@ -1,0 +1,814 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Distinguish between the following: i) Continuous time signal and discrete time signal. ii) Unit step and Unit Ramp functions. iii) Periodic and Aperiodic Signals. iv) Deterministic and Random Signals.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Determine whether the systems described by the equations are linear, time invariant, dynamic and stable: i) $$y_1(t) = x(t-3) + (3-t)$$ ii) $$y_2(t) = \\frac{dx(t)}{dt}$$ iii) $$y(n) = nx(n) + bx^2(n)$$ ",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Determine whether the following signals are energy or power signals. i) $$x(t) = t u(t)$$ ii) $$x(t) = u(t)e^{-at}$$",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Find the convolution of two signals $$x(t) = u(t-1) - u(t+1)$$ and $$h(t) = e^{-at} u(t), a > 0$$.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Basic operation on Signals for DT Signal",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Explain the classification of signals in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Determine which of the following signals are energy signal, power signals, neither energy nor power signals. i) $$x(t) = \\cos t$$ ii) $$x(n) = (1/3)^n u(n)$$ ",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Compare linear and non-linear system with examples.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Explain causal, non-causal and anti-causal system with suitable diagram.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Explain the properties of impulse response representation of LTI system.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Time Invariant and time varying system",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Properties of LTI system",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "Periodic and non-periodic signals.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Distinguish between the following: i) Continuous time signal and discrete time signal ii) Unit step and Unit Ramp functions iii) Periodic and Aperiodic Signals iv) Deterministic and Random Signals",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "Determine whether the following function is periodic or not. If so find the period. $$x(t) = 3 \\sin 200\\pi t + 4 \\cos 100t$$",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "Check linearity and casualty of the following systems: i) $$3 \\frac{d^3y(t)}{dt^3} + 7 \\frac{d^2y(t)}{dt^2} + 9 \\frac{dy(t)}{dt} + y(t) = x^2(t)$$ ii) $$y(n) = x(n)x(n-2)$$ ",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "What is LTI system? How discrete time LTI system differs from continuous time LTI system. What is the importance of impulse response to LTI system? Explain in detail.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "Calculate the output of the LTI system whose impulse response and input are given by $$h(t) = e^{-at} u(t)$$ and $$x(t) = e^{at} u(-t)$$ ",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Convolution",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Define signal and classify different types of signals with proper representation.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Differentiate following i) Periodic and aperiodic signals ii) Random and deterministic signals iii) Even and odd signals",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "Describe following in brief i) Causal and noncausal system ii) Additivity and homogeneity iii) Causality and realizability",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Write properties of the impulse response representation for LTI systems.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Explain the difference between the following systems with examples. i) Linear and Non-linear systems ii) Causal and Non-Causal systems iii) Static and Dynamic System",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "How Signals are classified? Differentiate between them.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Find out whether the following signals are energy or power signal or neither power nor energy. Determine power or energy as the case may be for the signal. $$x(t) = u(t) + 5u(t-1) - 2u(t-2)$$ ",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "The input $$x(n)$$ and output $$y(n)$$ of a discrete time LTI system is given as $$x(n) = \\{1,2,3,4\\}$$ and $$y(n) = \\{0,1,2,3,4\\}$$. Find the impulse response $$h(n)$$.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "Convolution",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.29",
+        "question_text": "Discuss about the DTFT and its properties.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Find the exponential Fourier series representation of the signal $$x(t) = \\cos^2 t$$",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "Compute the Fourier transform of the signal x(t) applying differentiation-in-time property of the Fourier transform.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "The spectral range of a signal extends from 5.6 MHz to 6.8 MHz. Find the minimum sampling rate and maximum sampling time.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Sampling Theorem and its applications",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Convergence of discrete time Fourier Transform",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Explain the properties and application of Discrete time Fourier series.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Explain the Fourier transform and its properties.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "State and prove sampling theorem in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Find the DTFT of the signal and draw its spectrum. $$x(n) = a^n u(n); |a| < 1$$ ",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Find the Fourier transform of $$e^{-at} \\sin w_0 t u(t)$$ ",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Find the Fourier series of the following discrete-time signal. $$x(n) = 1 + \\sin(\\frac{2\\pi}{5})n + 3\\cos(\\frac{2\\pi}{5})n + \\cos(\\frac{4\\pi}{5}n + \\frac{\\pi}{2})$$",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "List and explain various properties of Fourier transform.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "State and prove sampling theorem for band-limited signals.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "Convergence of discrete time Fourier Transform",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Discuss properties and application of discrete time Fourier series.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Use the Fourier series analysis to calculate the coefficients $$a_k$$ for the continuous time periodic signal. $$x(t) = \\begin{cases} 1.5 & 0 \\le t < 1 \\\\ -1.5 & 1 \\le t < 2 \\end{cases}$$",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "Compute the Fourier transform of the following signals. i) $$x(t) = \\begin{cases} 1 + \\cos \\pi t & |t| \\le 1 \\\\ 0 & |t| > 2 \\end{cases}$$ ii) $$x(t) = [t e^{-2t} \\sin 4t] u(t)$$ ",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "Discuss convergence of discrete time Fourier transform and write applications of DTFT.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Discuss following in detail: i) Sampling theorem and its implications ii) Reconstruction of a signal from its samples",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "If the frequency response $$H(e^{jw})$$ of a system is given by $$H(e^{jw}) = 2e^{j2w} + 3e^{jw} + 4 + 2e^{-jw} + 3e^{-j2w}$$. Determine the impulse response $$h(n)$$ of the system.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "The DTFT of a discrete time signal is given as $$X(e^{jw}) = 2e^{j2w} + 3 + 4e^{-jw} - 2e^{-j2w}$$. Find the time domain signal $$x(n)$$.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "State and prove any three properties of Fourier Transform.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Find the Fourier Transform of $$x(t) = e^{-a|t|}, a > 0$$ and sketch its corresponding magnitude spectrum.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "State and Prove the Sampling theorem with suitable example.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Applications of DTFT",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.55",
+        "question_text": "The input and output of a causal LTI system are related by the differential equation: $$\\frac{d^2y(t)}{dt^2} + 6 \\frac{dy(t)}{dt} + 8y(t) = 2x(t)$$. Find the impulse response of the system.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Discuss state variable representation and matrix representation of systems.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "What is state transition matrix? Explain in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "A LTI System is described by the following differential equation. Find out its impulse response by assuming all initial condition to be zero. $$3 \\frac{d^3y}{dt^3} + 4 \\frac{d^2y}{dt^2} + 2 \\frac{dy}{dt} + y(t) = 3x(t)$$ ",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "Describe state-transition matrix and its role.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "State space analysis",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "How multi-input, multi-output systems are represented in state space? Take 3 input 2 output system and represent it in state space form.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Write properties and role of state transition matrix. Also describe any two methods to determine state transition matrix.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Find the state transition matrix for X = ",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": [[-2, 1, 0], [0, -2, 1], [0, 0, -2]],
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "State space analysis",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.65",
+        "question_text": "Give block diagram representation of linear time invariant discrete time systems and also state their properties.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "State and prove the time shifting, differentiation and integration properties of Z transform.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Using properties of z-transform, find z-transform and ROC of signal. $$\\frac{1}{(1-z^{-1})^2}$$ ",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Explain the concept of ROC and discuss about different properties of ROC.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "Unilateral Z-Transform",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Determine the impulse response of given causal LTI system: $$y(n) - (1/4)y(n-1) - (3/8)y(n-2) = -x(n) + 3x(n-1)$$ ",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "Express the z-transform of given signal in terms of X(z). $$y(n) = \\sum_{k=-\\infty}^n x(k)$$ ",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Properties of z-transform",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(b)i",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "Unilateral z-transform",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(b)ii",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Define ROC and its properties. Explain Inverse z-transform.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "State and prove the time shifting, differentiation and integration properties of Z transform.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "Find the inverse Z-transform of $$X(z) = 1/(1 + z)$$ with ROC $$|z| < 1$$.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "Prove that the sequence $$x(n) = a^n u(n)$$ and $$x(n) = -a^n u(-n - 1)$$ have the same X(z) and differ only in ROC. Also plot their ROC.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Unilateral Z-Transform",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "Discuss impulse response representation for LTI system and describe LTI system by difference equations.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "Explain block diagram representations for following: i) Direct form - I and Direct form - II ii) Cascade and parallel form",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Using partial fraction expansion find the inverse z-transform of $$X(z) = \\frac{1 - (1/2) z^{-1}}{(1 - z^{-1})(1 + 2z^{-1})}, |z| > 2$$ ",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "Consider the signal $$x[n] = (1/5)^n u[n-3]$$. Evaluate the z-transform of this signal and specify the corresponding region of convergence.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "Describe following in brief i) ROC of finite and infinite duration sequence ii) Properties of the ROC and Z-transform",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Obtain the parallel realization of the system given by $$y(n) - 3y(n-1) + 2y(n-2) = x(n)$$ ",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "Define the ROC and its Properties.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "Derive the relation between discrete time Fourier Transform and Z Transform.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Find the inverse Z-transform and ROC given $$X(z) = \\log(1 / (1 - az^{-1}))$$ ",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "Unilateral Z transforms",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
