@@ -1,0 +1,612 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Describe the concept of energy efficiency and its importance in reducing energy consumption and greenhouse gas emissions.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Discuss the various strategies and technologies used to improve energy efficiency in buildings, industries and transportation sectors.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "State the advantages and disadvantages of using nuclear energy as a source of electricity.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Describe in brief about the environmental impacts of fossil fuel combustion and greenhouse gas emissions on air pollution, water pollution.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "High-efficiency batteries",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Give the classification of hydro-electric power plant. What are the criteria of site selection for hydroelectric plant?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Differentiate between single-basin and double-basin tidal plants. Explain briefly the various components of tidal power plants.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Fossil fuels",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "What do you understand by concept of Green building? Explain.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "What is Energy conservation? Write down different methods of energy conservation.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "What are the Primary Goals of Sustainability?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "How can our energy system be more Earth-friendly?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "What are the challenges for the implementation of Geothermal Energy power generation system?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Explain in your words how far is research in the field of combined solar panels (PV and Thermal)?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "What is Energy? Discuss the energy scenario giving emphasis on: Sources, efficiency and storage.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "Fossil fuels",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "Wind Energy",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.18",
+        "question_text": "Discuss the importance of conservation and management of ecosystems for maintaining biodiversity and ecosystem services.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Mention the different types of approaches and strategies for ecosystem conservation and management.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Explain the concept of ecological pyramids and also describe its various type.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "How is an ecosystem evolved? Write different components of an ecosystem. How is balance maintained in an ecosystem? Comment on the statement, \"An ecosystem with large population is not healthy\".",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "What is Food Chain? Explain various types of food chains.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Explain aquatic Ecosystem.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Ecological pyramid",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "What are the indicators, tools and techniques of diagnosis, prognosis and therapy (treatment) of ecosystem health?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "What impact do humans have on aquatic life zones?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Describe the fundamentals of an ecosystem. Explain the relationship among the different parts of an ecosystem with the help of a schematic diagram.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "What is Food Chain? Explain various types of food chains.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Explain aquatic Ecosystem.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Desert ecosystem",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.31",
+        "question_text": "Discuss in brief about the which local communities can contribute to conservation, including ecotourism, sustainable livelihoods and traditional knowledge with a suitable example.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Describe the importance of biodiversity at global, national and local region.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "How come the human involvement impact biodiversity at each level and state its consequences for ecosystem services and human well-being.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Species Diversity",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "What is Biodiversity? Discuss about the different kinds of diversity in organisms. Write in detail about conservation of biodiversity.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "A collection of trees is attractive to rainfall. Is it a scientific thought. How to evaluate the economic and social values of a forest?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "What is the meaning of law of tolerance? Explain how tolerance can increase biodiversity?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Why India is called a mega biodiversity Centre? How many hotspots are present in India?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "What is Biodiversity? What are the major factors responsible for the loss of genetic biodiversity? How can biodiversity be conserved?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.40",
+        "question_text": "Describe the causes and effects of marine pollution including the impact on human health and the environment.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Discuss the impact of nuclear hazards on human health and the environment.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "Explain the term Solid waste. What are adverse effects of solid wastes in society? Discuss various methods for disposal of solid wastes.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "Ozone layer depletion",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Acid rain",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Global warming",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "Disaster management",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "What are the differences between soil pollution and soil contamination? How many horizons are there in soils?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "How can chemists, physicists, biologists and other scientists reduce disasters and crises of life?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "Which gas does not cause air pollution? Who had coined the term SMOG?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "Explain Water pollution. Enlist various sources of water pollution giving their adverse effects. How water pollution can be minimized?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Explain the term Solid waste. What are adverse effects of solid wastes in society? Discuss various methods for disposal of solid wastes.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Global warming",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Ozone layer depletion",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Acid rain",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "Noise pollution",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.56",
+        "question_text": "Describe the concept of Environmental Impact Assessment (EIA) and its importance in promoting sustainable development.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "Discuss the different stages of the EIA process.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Wildlife Protection Act, 1972",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "Watershed management",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Ethics",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "What is a watershed? What is the function of a watershed? Is there a code or symbol for the watersheds in the country?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Write a brief note on Resettlement and rehabilitation of people: Problems and Concerns!",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "What are the objectives of Wildlife Protection Act? When was Wildlife Protection Act implemented write its features?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "What are the main goals of Forest Conservation Act 1980?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Environment Protection Act",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
